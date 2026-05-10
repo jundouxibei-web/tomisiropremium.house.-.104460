@@ -1,5 +1,5 @@
 // 正解パスワード（例：1234）
-const correctCode = ["1", "1", "1", "1", "1"];
+const correctCode = ["1", "0", "4", "4", "6"];
 
 let inputCode = [];
 
